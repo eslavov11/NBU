@@ -1,3 +1,7 @@
+/**
+* Creates nxn matrix and fills it with numbers from 1..n in a spiral manner
+*/
+
 #include <iostream>
 
 using namespace std;
