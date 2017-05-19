@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/core/List.cpp
+List.h
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/core/List.h
+
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/core/List.h
+Node.h
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/core/Node.h
+ListIterator.h
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/core/ListIterator.h
+
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/core/ListIterator.cpp
+ListIterator.h
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/core/ListIterator.h
+
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/core/ListIterator.h
+Node.h
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/core/Node.h
+
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/core/Node.cpp
+Node.h
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/core/Node.h
+
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/core/Node.h
+
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/main.cpp
+iostream
+-
+core/List.h
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/core/List.h
+

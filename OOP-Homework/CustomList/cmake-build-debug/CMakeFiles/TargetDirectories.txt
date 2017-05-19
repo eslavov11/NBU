@@ -1,0 +1,3 @@
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/cmake-build-debug/CMakeFiles/CustomList.dir
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Edi/Documents/GitHub/NBU/OOP-Homework/CustomList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
