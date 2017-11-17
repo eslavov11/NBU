@@ -20,7 +20,6 @@ string decimalToFraction(double input, string divideFormatStr) {
     return ss.str();
 }
 
-
 int powInts(int a, int b) {
     int i, result = 1;
     for (i = 0; i < b; ++i) {
